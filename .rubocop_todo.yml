@@ -10,7 +10,7 @@
 # Configuration parameters: CountComments, CountAsOne, AllowedMethods, AllowedPatterns.
 # AllowedMethods: refine
 Metrics/BlockLength:
-  Max: 70
+  Max: 90
 
 # Offense count: 1
 # Configuration parameters: AllowedMethods, AllowedPatterns.
